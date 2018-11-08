@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class ForEach3 {
+ class ForEach3 {
     public static void main(String[] args) {
         int sum = 0;
         int nums[][] = new int[3][5];

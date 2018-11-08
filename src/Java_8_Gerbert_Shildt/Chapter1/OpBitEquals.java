@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class OpBitEquals {
+class OpBitEquals {
     public static void main(String args[]) {
         int a = 1;
         int b = 2;

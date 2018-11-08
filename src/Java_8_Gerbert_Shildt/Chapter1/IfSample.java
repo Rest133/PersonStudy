@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class IfSample {
+ class IfSample {
     public static void main(String args[]) {
         int x, y;
 

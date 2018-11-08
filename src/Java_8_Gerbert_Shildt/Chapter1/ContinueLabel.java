@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class ContinueLabel {
+ class ContinueLabel {
     public static void main(String[] args) {
         outer:
         for (int i = 0; i < 10; i++) {

@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class Break {
+ class Break {
     public static void main(String[] args) {
         boolean t = true;
 

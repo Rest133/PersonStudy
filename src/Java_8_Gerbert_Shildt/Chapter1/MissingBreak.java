@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class MissingBreak {
+class MissingBreak {
     public static void main(String[] args) {
         for (int i = 0; i < 12; i++) {
             switch (i) {

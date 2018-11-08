@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class BoxDemo3 {
+ class BoxDemo3 {
     public static void main(String[] args) {
         Box myBox = new Box();
         Box myBox2 = new Box();

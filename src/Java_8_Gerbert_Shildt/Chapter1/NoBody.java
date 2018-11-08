@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class NoBody {
+class NoBody {
     public static void main(String[] args) {
         int i, j;
         i = 100;

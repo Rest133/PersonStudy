@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class IncDec {
+class IncDec {
     public static void main(String[] args) {
         int a = 1, b = 2, c, d;
         c = ++b;

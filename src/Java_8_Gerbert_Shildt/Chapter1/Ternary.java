@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class Ternary {
+class Ternary {
     public static void main(String[] args) {
         int i, k;
 

@@ -9,6 +9,12 @@ class Box/*1*/ {
         width = height = depth = 10;
     }
 
+    Box(Box o) {//Констурктор для создания клонов объекта
+        width = o.width;
+        height = o.height;
+        depth = o.depth;
+    }
+
     double volume() {
         return width * height * depth;
     }
@@ -20,7 +26,7 @@ class Box/*1*/ {
     }
 }
 
-public class BoxDemo {
+class BoxDemo {
     public static void main(String[] args) {
         Box myBox/*3*/;
         myBox = new Box();/*2*/

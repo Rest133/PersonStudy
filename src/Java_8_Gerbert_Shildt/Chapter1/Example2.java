@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class Example2 {
+ class Example2 {
     public static void main(String[] args) {
         int num;// в этой строке кода объявляется переменная с именем num
 

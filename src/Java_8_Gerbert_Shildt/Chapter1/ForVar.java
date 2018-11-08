@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class ForVar {
+ class ForVar {
     public static void main(String[] args) {
         boolean done;
         done = false;

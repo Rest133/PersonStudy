@@ -1,7 +1,7 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
 // Применение сдвига влево в качестве быстрого способа умножения на 2
-public class MultByTwo {
+class MultByTwo {
     public static void main(String args[]){
         int i;
         int num = 0xFFFFFFE;

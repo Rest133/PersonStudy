@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class/*1*/Example/*2*/ {
+ class/*1*/Example/*2*/ {
     public/*3*/ static/*4*/ void/*5*/ main(String[]/*6*/ args) {
         System.out.println("Hello,World");
         System.out.println("Простая программа на Java");

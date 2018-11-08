@@ -2,7 +2,7 @@ package Java_8_Gerbert_Shildt.Chapter1;
 
 import java.io.IOException;
 
-public class Menu {
+class Menu {
     public static void main(String[] args) throws IOException {
         char choice;
         do {

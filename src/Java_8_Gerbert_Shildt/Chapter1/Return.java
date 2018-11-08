@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class Return {
+class Return {
     public static void main(String[] args) {
         boolean t = true;
         System.out.println("Это строка появится");

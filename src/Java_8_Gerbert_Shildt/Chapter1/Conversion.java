@@ -1,6 +1,6 @@
 package Java_8_Gerbert_Shildt.Chapter1;
 
-public class Conversion {
+ class Conversion {
     public static void main(String[] args) {
         byte b;
         int i = 257;
