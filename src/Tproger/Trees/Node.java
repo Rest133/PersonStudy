@@ -1,7 +1,7 @@
 package Tproger.Trees;
 
 //java-master.com
-public class Node {
+class Node {
     public int key;//Ключ узла
     public String data;//Какие-то данные в этом узле *1*
 
