@@ -112,7 +112,8 @@ class Tree {
         }
         return successor;
     }
-
+}
+/*
     private Node<T> getReplacementNode(Node<T> replaceNode) {
         Node<T> replacementParent = replaceNode;
         Node<T> replacement = replaceNode;
@@ -134,3 +135,4 @@ class Tree {
 
 
 }
+*/
