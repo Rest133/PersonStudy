@@ -13,22 +13,23 @@
     <session id="1710663598">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.35" value="3" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,7 +39,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="110" />
+          <entry key="JAVA" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -48,7 +49,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19195" />
+          <entry key="JAVA" value="19727" />
         </counts>
       </usages-collector>
     </session>
@@ -59,18 +60,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BoxWeight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Figure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
+            <state relative-caret-position="731">
               <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
               <folding>
                 <element signature="e#335#336#0" expanded="true" />
@@ -82,26 +74,54 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/Vertex.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="468">
+              <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#499#500#0" expanded="true" />
                 <element signature="e#553#554#0" expanded="true" />
                 <element signature="e#710#711#0" expanded="true" />
                 <element signature="e#765#766#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/BFSApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/DFSApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -121,9 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/TestStack.java" />
-        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Ternary.java" />
-        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Switch.java" />
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Stack.java" />
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Return.java" />
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Promote.java" />
@@ -171,7 +188,10 @@
         <option value="$PROJECT_DIR$/src/Tproger/AnotherTree/Tree.java" />
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Figure.java" />
         <option value="$PROJECT_DIR$/src/Tproger/Graph/Vertex.java" />
+        <option value="$PROJECT_DIR$/src/Tproger/Graph/DFSApp.java" />
         <option value="$PROJECT_DIR$/src/Tproger/Graph/Graph.java" />
+        <option value="$PROJECT_DIR$/src/Tproger/Graph/Queue.java" />
+        <option value="$PROJECT_DIR$/src/Tproger/Graph/BFSApp.java" />
       </list>
     </option>
   </component>
@@ -206,7 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,12 +252,20 @@
             </path>
             <path>
               <item name="PersonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PersonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tproger" type="462c0819:PsiDirectoryNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PersonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -246,7 +273,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543441129716" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543959718496" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -265,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindArea">
+  <component name="RunManager" selected="Application.BFSApp">
     <configuration name="EasyApp" type="Applet" factoryName="Applet" singleton="true">
       <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.EasyApplet" />
       <module name="PersonStudy" />
@@ -279,12 +306,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoBoxWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.DemoBoxWeight" />
+    <configuration name="BFSApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tproger.Graph.BFSApp" />
       <module name="PersonStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_8_Gerbert_Shildt.Chapter1.*" />
+          <option name="PATTERN" value="Tproger.Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFSApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tproger.Graph.DFSApp" />
+      <module name="PersonStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tproger.Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,34 +371,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgs4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.VarArgs4" />
-      <module name="PersonStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_8_Gerbert_Shildt.Chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Applet.EasyApp" />
-      <item itemvalue="Application.VarArgs4" />
-      <item itemvalue="Application.DemoBoxWeight" />
       <item itemvalue="Application.UseSuper" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.FindArea" />
+      <item itemvalue="Application.DFSApp" />
+      <item itemvalue="Application.BFSApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BFSApp" />
+        <item itemvalue="Application.DFSApp" />
         <item itemvalue="Application.FindArea" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.UseSuper" />
-        <item itemvalue="Application.DemoBoxWeight" />
-        <item itemvalue="Application.VarArgs4" />
       </list>
     </recent_temporary>
   </component>
@@ -391,8 +418,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6682848" visible="true" weight="0.15991472" />
-      <window_info id="Structure" order="1" sideWeight="0.3317152" side_tool="true" visible="true" weight="0.15991472" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70388347" visible="true" weight="0.16950959" />
+      <window_info id="Structure" order="1" sideWeight="0.2961165" side_tool="true" visible="true" weight="0.16950959" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -400,13 +427,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.22168285" side_tool="true" weight="0.2835821" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7382729" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.73773986" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.26172706" side_tool="true" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.26226014" side_tool="true" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -428,21 +455,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BoxDemo4.java" />
-    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/TestStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Ternary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Switch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -753,14 +765,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BoxWeight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
+        <state relative-caret-position="289">
           <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Figure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
+        <state relative-caret-position="731">
           <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
           <folding>
             <element signature="e#335#336#0" expanded="true" />
@@ -771,23 +783,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/Vertex.java">
+    <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/DFSApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="340">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="468">
+          <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#499#500#0" expanded="true" />
             <element signature="e#553#554#0" expanded="true" />
             <element signature="e#710#711#0" expanded="true" />
             <element signature="e#765#766#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/BFSApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tproger/Graph/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
