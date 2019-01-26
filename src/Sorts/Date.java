@@ -1,7 +1,5 @@
 package Sorts;
 
-import org.jetbrains.annotations.NotNull;
-
 public class Date implements Comparable {
     private int year, month, day;
 
@@ -23,8 +21,9 @@ public class Date implements Comparable {
         return 0;
     }
 */
+
     @Override
-    public int compareTo(@NotNull Object o) {
+    public int compareTo(Object o) {
         return 0;
     }
 }
