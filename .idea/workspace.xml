@@ -15,41 +15,37 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Exc0.java">
+        <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiCatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="136">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Exc1.java">
+        <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiThreading/CurrentThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Exc2.java">
+        <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiThreading/NewThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            <state relative-caret-position="306">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/SuperSubCatch.java">
+        <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiThreading/CallMe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="-153">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -70,10 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/ByteShift.java" />
-        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Break.java" />
-        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BoxDemo5.java" />
-        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BoxDemo3.java" />
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BlockTest.java" />
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BitLogic.java" />
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Test.java" />
@@ -121,6 +113,10 @@
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Exc1.java" />
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Exc2.java" />
         <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/SuperSubCatch.java" />
+        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiCatch.java" />
+        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiThreading/CurrentThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiThreading/NewThread.java" />
+        <option value="$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiThreading/CallMe.java" />
       </list>
     </option>
   </component>
@@ -183,34 +179,21 @@
             </path>
             <path>
               <item name="PersonStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PersonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tproger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PersonStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PersonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tproger" type="462c0819:PsiDirectoryNode" />
-              <item name="Trees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PersonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549478939952" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549657845950" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../15" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -229,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SuperSubCatch">
+  <component name="RunManager" selected="Application.Synchronized1">
     <configuration name="EasyApp" type="Applet" singleton="true">
       <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.EasyApplet" />
       <module name="PersonStudy" />
@@ -243,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.Exc0" />
+    <configuration name="CurrentThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.MultiThreading.CurrentThreadDemo" />
       <module name="PersonStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_8_Gerbert_Shildt.Chapter1.*" />
+          <option name="PATTERN" value="Java_8_Gerbert_Shildt.Chapter1.MultiThreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,34 +239,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.Exc1" />
-      <module name="PersonStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_8_Gerbert_Shildt.Chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.Exc2" />
-      <module name="PersonStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_8_Gerbert_Shildt.Chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IFTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.IFTest2" />
+    <configuration name="MultiCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.MultiCatch" />
       <module name="PersonStudy" />
       <extension name="coverage">
         <pattern>
@@ -308,21 +265,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Synchronized1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.MultiThreading.Synchronized1" />
+      <module name="PersonStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_8_Gerbert_Shildt.Chapter1.MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_8_Gerbert_Shildt.Chapter1.MultiThreading.ThreadDemo" />
+      <module name="PersonStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_8_Gerbert_Shildt.Chapter1.MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Applet.EasyApp" />
-      <item itemvalue="Application.IFTest2" />
-      <item itemvalue="Application.Exc0" />
-      <item itemvalue="Application.Exc1" />
-      <item itemvalue="Application.Exc2" />
       <item itemvalue="Application.SuperSubCatch" />
+      <item itemvalue="Application.MultiCatch" />
+      <item itemvalue="Application.CurrentThreadDemo" />
+      <item itemvalue="Application.ThreadDemo" />
+      <item itemvalue="Application.Synchronized1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Synchronized1" />
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.CurrentThreadDemo" />
+        <item itemvalue="Application.MultiCatch" />
         <item itemvalue="Application.SuperSubCatch" />
-        <item itemvalue="Application.Exc2" />
-        <item itemvalue="Application.Exc1" />
-        <item itemvalue="Application.Exc0" />
-        <item itemvalue="Application.IFTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -353,10 +336,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6799431" visible="true" weight="0.1098081" />
-      <window_info id="Structure" order="1" sideWeight="0.3200569" side_tool="true" visible="true" weight="0.1098081" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6785206" visible="true" weight="0.1108742" />
+      <window_info id="Structure" order="1" sideWeight="0.32147938" side_tool="true" visible="true" weight="0.1108742" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -364,13 +346,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.22168285" side_tool="true" weight="0.2835821" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8017058" visible="true" weight="0.2383532" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.80117273" weight="0.2383532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.19829424" side_tool="true" visible="true" weight="0.2383532" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.1988273" side_tool="true" visible="true" weight="0.2383532" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49840087" weight="0.32936078" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -390,34 +372,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BoxDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BlockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/BitLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/Continue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/UseStatic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -780,6 +734,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiThreading/CurrentThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiThreading/NewThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_8_Gerbert_Shildt/Chapter1/MultiThreading/CallMe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
