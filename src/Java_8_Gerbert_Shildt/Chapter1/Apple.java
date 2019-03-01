@@ -29,4 +29,5 @@ class EnumDemo {
             System.out.println(a + " - " + " " + a.getPrice());
         }
     }
+
 }
